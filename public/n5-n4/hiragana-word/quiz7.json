@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'えきいん' read in word?",
+        "answer": "Працівник станції"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'きょうし' read in word?",
+        "answer": "Викладач"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'けんちくか' read in word?",
+        "answer": "Архітектор"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'さっか' read in word?",
+        "answer": "Письменник"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'がいこうかん' read in word?",
+        "answer": "Дипломат"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'ジャーナリスト' read in word?",
+        "answer": "Журналіст"
+    }
+]

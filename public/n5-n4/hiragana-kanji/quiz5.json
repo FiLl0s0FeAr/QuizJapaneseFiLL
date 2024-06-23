@@ -1,0 +1,57 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'てつだいます' read in kanji?",
+        "answer": "手伝ます"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'てつだい' read in kanji?",
+        "answer": "手伝"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'しめます' read in kanji?",
+        "answer": "閉めます"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'けします' read in kanji?",
+        "answer": "消します"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'あけます' read in kanji?",
+        "answer": "開けます"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'いそぎます' read in kanji?",
+        "answer": "急ぎます"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'まちます' read in kanji?",
+        "answer": "待ちます"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'とまります' read in kanji?",
+        "answer": "止まります"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'とります' read in kanji?",
+        "answer": "取ります"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'まがります' read in kanji?",
+        "answer": "曲がります"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'もちます' read in kanji?",
+        "answer": "持ちます"
+    }
+]

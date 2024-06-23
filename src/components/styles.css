@@ -1,0 +1,55 @@
+/* styles.css */
+.custom-select {
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.custom-select:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.custom-select option {
+    background-color: #fff;
+    color: #000;
+    font-weight: normal;
+}
+
+.info-panel {
+    position: fixed;
+    top: 0;
+    left: -300px; /* Начальное положение за пределами экрана */
+    width: 300px;
+    height: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+    transition: left 0.3s ease;
+    z-index: 1000;
+}
+
+.info-panel.visible {
+    left: 0; /* Положение, когда панель видна */
+}
+
+.btn-info {
+    background-color: #17a2b8;
+    border: none;
+    color: #fff;
+}
+
+.btn-info:hover {
+    background-color: #138496;
+}

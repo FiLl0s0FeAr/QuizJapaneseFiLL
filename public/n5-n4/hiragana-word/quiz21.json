@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'しゅみ' read in word?",
+        "answer": "хоббі"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'げんきん' read in word?",
+        "answer": "готівка"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'にっき' read in word?",
+        "answer": "щоденник"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'あつめます' read in word?",
+        "answer": "збирати, колекціонувати"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'ひきます' read in word?",
+        "answer": "грати (на струнних та клавішних інструментах)"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'あらいます' read in word?",
+        "answer": "прати, мити"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'うたいます' read in word?",
+        "answer": "співати"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'かえます' read in word?",
+        "answer": "обмінювати"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'うんてんします' read in word?",
+        "answer": "водити (машину)"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'よそくします' read in word?",
+        "answer": "Передбачити, прогнозувати"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'けんがくします' read in word?",
+        "answer": "Відвідувати, оглядати, йти на екскурсію,практику"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'ヤバイ' read in word?",
+        "answer": "Это опасно, моторошно, блин"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '立ちます' read in word?",
+        "answer": "Стояти, вставати"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '座ります' read in word?",
+        "answer": "Сідати"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '使います' read in word?",
+        "answer": "Використовувати"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '置きます' read in word?",
+        "answer": "Покласти, ставити"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '作ります' read in word?",
+        "answer": "Виготовляти"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '思い出します' read in word?",
+        "answer": "Згадувати"
+    }
+]

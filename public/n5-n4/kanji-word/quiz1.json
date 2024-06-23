@@ -1,0 +1,52 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Дит. садок' read in hiragana?",
+        "answer": "ようちえん"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Ботанічний сад' read in hiragana?",
+        "answer": "しょくぶつえん"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Парк розваг' read in hiragana?",
+        "answer": "ゆうえんち"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Храм (буддійський)' read in hiragana?",
+        "answer": "おてら"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Овочевий' read in hiragana?",
+        "answer": "やおや"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Спортзал' read in hiragana?",
+        "answer": "たいいくかん"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Посольство' read in hiragana?",
+        "answer": "たいしかん"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'Пожежна станція' read in hiragana?",
+        "answer": "しょうぼうしょ"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Відділ поліції' read in hiragana?",
+        "answer": "けいさつしょ"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'Музей' read in hiragana?",
+        "answer": "はくぶつかん"
+    }
+]

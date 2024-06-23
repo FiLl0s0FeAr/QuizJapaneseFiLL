@@ -1,0 +1,87 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '泊ります' read in hiragana?",
+        "answer": "とまります"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '練習' read in hiragana?",
+        "answer": "れんしゅう"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '洗濯' read in hiragana?",
+        "answer": "せんたく"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '掃除' read in hiragana?",
+        "answer": "そうじ"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '始まります' read in hiragana?",
+        "answer": "はじまります"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '新型' read in hiragana?",
+        "answer": "しんがた"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '開きます' read in hiragana?",
+        "answer": "ひらきます"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '会場' read in hiragana?",
+        "answer": "かいじょう"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '楽しみます' read in hiragana?",
+        "answer": "たのしみます"
+    },
+    {
+        "id": "10",
+        "question": "How is the kanji '大通り' read in hiragana?",
+        "answer": "おおどおり"
+    },
+    {
+        "id": "11",
+        "question": "How is the kanji '以上' read in hiragana?",
+        "answer": "いじょう"
+    },
+    {
+        "id": "12",
+        "question": "How is the kanji '像' read in hiragana?",
+        "answer": "ぞう"
+    },
+    {
+        "id": "13",
+        "question": "How is the kanji '競馬' read in hiragana?",
+        "answer": "けいば"
+    },
+    {
+        "id": "14",
+        "question": "How is the kanji '恐竜' read in hiragana?",
+        "answer": "きょうりゅう"
+    },
+    {
+        "id": "15",
+        "question": "How is the kanji '建物' read in hiragana?",
+        "answer": "たてもの"
+    },
+    {
+        "id": "16",
+        "question": "How is the kanji '映します' read in hiragana?",
+        "answer": "うつします"
+    },
+    {
+        "id": "17",
+        "question": "How is the kanji '映像' read in hiragana?",
+        "answer": "えいぞう"
+    }
+]

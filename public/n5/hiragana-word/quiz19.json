@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'ざんぎょうします' read in word?",
+        "answer": "Працювати понаднормово"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'ざんぎょう' read in word?",
+        "answer": "переробка"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'すてます' read in word?",
+        "answer": "Викидати"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'ゴミ' read in word?",
+        "answer": "сміття"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'あらいます' read in word?",
+        "answer": "Мити, прати"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'まげります' read in word?",
+        "answer": "Згинати"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'はいます' read in word?",
+        "answer": "Повзати"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'できます' read in word?",
+        "answer": "Могти, виходити"
+    }
+]

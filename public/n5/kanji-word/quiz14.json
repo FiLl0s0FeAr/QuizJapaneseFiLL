@@ -1,0 +1,72 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '持って行きます' read in word?",
+        "answer": "Брати з собою"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '持って来ます' read in word?",
+        "answer": "Приносити з собою"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '心配します' read in word?",
+        "answer": "Хвилюватись"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '心配' read in word?",
+        "answer": "хвилювання"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '答えます' read in word?",
+        "answer": "Відповідати"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '答え' read in word?",
+        "answer": "відповідь"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '吐き気' read in word?",
+        "answer": "Нудота"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '吐き気がします' read in word?",
+        "answer": "відчувати нудоту"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '咳' read in word?",
+        "answer": "Кашель"
+    },
+    {
+        "id": "10",
+        "question": "How is the kanji '咳がでます' read in word?",
+        "answer": "кашляти"
+    },
+    {
+        "id": "11",
+        "question": "How is the kanji 'お腹' read in word?",
+        "answer": "Живіт"
+    },
+    {
+        "id": "12",
+        "question": "How is the kanji '歯' read in word?",
+        "answer": "Зуб"
+    },
+    {
+        "id": "13",
+        "question": "How is the kanji '熱' read in word?",
+        "answer": "Жар, гарячка"
+    },
+    {
+        "id": "14",
+        "question": "How is the kanji '火傷' read in word?",
+        "answer": "Опік"
+    }
+]

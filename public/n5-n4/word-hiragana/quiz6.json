@@ -1,0 +1,67 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Розмова, діалог' read in hiragana?",
+        "answer": "はなし"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Показувати' read in hiragana?",
+        "answer": "みせます"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Починати' read in hiragana?",
+        "answer": "はじめます"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Пояснювати, повідомляти' read in hiragana?",
+        "answer": "おしえます"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Адреса' read in hiragana?",
+        "answer": "じゅう, しょ"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Йти (опади)' read in hiragana?",
+        "answer": "ふります"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Ім*я' read in hiragana?",
+        "answer": "なまえ"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'Одразу' read in hiragana?",
+        "answer": "すぐ"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Сіль' read in hiragana?",
+        "answer": "しお"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'Цукор' read in hiragana?",
+        "answer": "さとう"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'Робити копію' read in word?",
+        "answer": "コピーします"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'Знову' read in word?",
+        "answer": "また"
+    },
+    {
+        "id": "13",
+        "question": "How is the hiragana 'Повільно' read in word?",
+        "answer": "ゆっくり"
+    }
+]

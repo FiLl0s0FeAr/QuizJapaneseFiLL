@@ -1,0 +1,52 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '幼稚園' read in hiragana?",
+        "answer": "ようちえん"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '植物園' read in hiragana?",
+        "answer": "しょくぶつえん"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '遊園地' read in hiragana?",
+        "answer": "ゆうえんち"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji 'お寺' read in hiragana?",
+        "answer": "おてら"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '八百屋' read in hiragana?",
+        "answer": "やおや"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '体育館' read in hiragana?",
+        "answer": "たいいくかん"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '大使館' read in hiragana?",
+        "answer": "たいしかん"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '消防署' read in hiragana?",
+        "answer": "しょうぼうしょ"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '警察署' read in hiragana?",
+        "answer": "けいさつしょ"
+    },
+    {
+        "id": "10",
+        "question": "How is the kanji '博物館' read in hiragana?",
+        "answer": "はくぶつかん"
+    }
+]

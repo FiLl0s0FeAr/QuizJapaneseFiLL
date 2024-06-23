@@ -1,0 +1,102 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Традиційна культура' read in kanji?",
+        "answer": "伝統文化"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'розваги' read in kanji?",
+        "answer": "娯楽"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Чайна церемонія' read in kanji?",
+        "answer": "茶道"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'чай' read in kanji?",
+        "answer": "お茶"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'шлях' read in kanji?",
+        "answer": "道"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Каліграфія' read in kanji?",
+        "answer": "書道"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'писати' read in kanji?",
+        "answer": "書"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'Кабукі' read in kanji?",
+        "answer": "歌舞伎"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Театр Но' read in kanji?",
+        "answer": "能"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'Театр Бунраку' read in kanji?",
+        "answer": "文楽"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'Сумо' read in kanji?",
+        "answer": "相撲"
+    },
+    {
+        "id": "12",
+        "question": "How is the word 'Дзюдо' read in kanji?",
+        "answer": "柔道"
+    },
+    {
+        "id": "13",
+        "question": "How is the word 'Кендо' read in kanji?",
+        "answer": "剣道"
+    },
+    {
+        "id": "14",
+        "question": "How is the word 'Карате' read in kanji?",
+        "answer": "空手"
+    },
+    {
+        "id": "15",
+        "question": "How is the word 'Комедійний діалог на сцені・Ракуґо (комічне естрадне оповідання)' read in kanji?",
+        "answer": "漫才"
+    },
+    {
+        "id": "16",
+        "question": "How is the word 'Комедійний діалог на сцені・Ракуґо (комічне естрадне оповідання)' read in kanji?",
+        "answer": "落語"
+    },
+    {
+        "id": "17",
+        "question": "How is the word 'Ґо' read in kanji?",
+        "answer": "囲碁"
+    },
+    {
+        "id": "18",
+        "question": "How is the word 'Сьоги' read in kanji?",
+        "answer": "将棋"
+    },
+    {
+        "id": "19",
+        "question": "How is the word 'Танець на фестиваль “Бон”' read in kanji?",
+        "answer": "盆踊り"
+    },
+    {
+        "id": "20",
+        "question": "How is the word 'Танець' read in kanji?",
+        "answer": "踊り"
+    }
+]

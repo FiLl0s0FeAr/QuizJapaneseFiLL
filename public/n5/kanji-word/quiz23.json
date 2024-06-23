@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '見学します' read in word?",
+        "answer": "Відвідувати (для навчання), практичне вивчення"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '祈りします' read in word?",
+        "answer": "Молитись"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '課長' read in word?",
+        "answer": "Начальник відділу"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '部長' read in word?",
+        "answer": "Начальник департаменту"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '社長' read in word?",
+        "answer": "Президент компанії"
+    }
+]

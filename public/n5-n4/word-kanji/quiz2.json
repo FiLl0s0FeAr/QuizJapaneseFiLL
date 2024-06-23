@@ -1,0 +1,67 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Виходити заміж, одружуватися' read in kanji?",
+        "answer": "結婚します"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Реєструвати' read in kanji?",
+        "answer": "登録します"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'реєстрація' read in kanji?",
+        "answer": "登録"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Рибалити' read in kanji?",
+        "answer": "釣りします"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Проводити засідання' read in kanji?",
+        "answer": "会議します"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'засідання, конференція' read in kanji?",
+        "answer": "会議"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Їсти' read in kanji?",
+        "answer": "食事します"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'їжа' read in kanji?",
+        "answer": "食事"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Робити покупки' read in kanji?",
+        "answer": "買い物します"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'покупки' read in kanji?",
+        "answer": "買い物"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'Я зголоднів “Живіт став пустим”' read in kanji?",
+        "answer": "お腹が空きました"
+    },
+    {
+        "id": "12",
+        "question": "How is the word 'Я ситий “Живіт став повним' read in kanji?",
+        "answer": "お腹がいっぱい"
+    },
+    {
+        "id": "13",
+        "question": "How is the word 'Хочу пити “Горло пересохло”' read in kanji?",
+        "answer": "咽が乾きました"
+    }
+]

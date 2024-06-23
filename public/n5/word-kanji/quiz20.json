@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Уява' read in kanji?",
+        "answer": "想像"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Ресепшн' read in kanji?",
+        "answer": "受付"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Тарілка' read in kanji?",
+        "answer": "皿"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Бог' read in kanji?",
+        "answer": "神様"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Віяло' read in kanji?",
+        "answer": "扇"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Міфологія' read in kanji?",
+        "answer": "神話"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '南' read in hiragana?",
+        "answer": "みなみ"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '旅行します' read in hiragana?",
+        "answer": "りょこうします"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '素敵' read in hiragana?",
+        "answer": "すてき"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '珊瑚碓' read in hiragana?",
+        "answer": "さん ご うす"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '珍しい' read in hiragana?",
+        "answer": "めずらしい"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '本当' read in hiragana?",
+        "answer": "ほんとう"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '沖縄' read in hiragana?",
+        "answer": "おきなわ"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '色々' read in hiragana?",
+        "answer": "いろいろ"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '東' read in hiragana?",
+        "answer": "とう"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '趣味' read in word?",
+        "answer": "хоббі"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '現金' read in word?",
+        "answer": "готівка"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '日記' read in word?",
+        "answer": "щоденник"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '集めます' read in word?",
+        "answer": "збирати, колекціонувати"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '弾きます' read in word?",
+        "answer": "грати (на струнних та клавішних інструментах)"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '洗います' read in word?",
+        "answer": "прати, мити"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '歌います' read in word?",
+        "answer": "співати"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '換えます' read in word?",
+        "answer": "обмінювати"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '運転します' read in word?",
+        "answer": "водити (машину)"
+    },
+    {
+        "id": "10",
+        "question": "How is the kanji '予測します' read in word?",
+        "answer": "Передбачити, прогнозувати"
+    },
+    {
+        "id": "11",
+        "question": "How is the kanji '見学します' read in word?",
+        "answer": "Відвідувати, оглядати, йти на екскурсію,практику"
+    }
+]

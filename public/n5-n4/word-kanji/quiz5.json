@@ -1,0 +1,57 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Допомагати' read in kanji?",
+        "answer": "手伝ます"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'допомога' read in kanji?",
+        "answer": "手伝"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Зачиняти' read in kanji?",
+        "answer": "閉めます"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Вимикати' read in kanji?",
+        "answer": "消します"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Відчиняти' read in kanji?",
+        "answer": "開けます"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Спішити' read in kanji?",
+        "answer": "急ぎます"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Очікувати' read in kanji?",
+        "answer": "待ちます"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'Зупинятись' read in kanji?",
+        "answer": "止まります"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Брати' read in kanji?",
+        "answer": "取ります"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'Повертати' read in kanji?",
+        "answer": "曲がります"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'Тримати' read in kanji?",
+        "answer": "持ちます"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '南' read in word?",
+        "answer": "Південь"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '旅行します' read in word?",
+        "answer": "Подорожувати"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '素敵' read in word?",
+        "answer": "Чудовий"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '珊瑚碓' read in word?",
+        "answer": "Кораловий риф"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '珍しい' read in word?",
+        "answer": "Рідкісний"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '本当' read in word?",
+        "answer": "Правда"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '沖縄' read in word?",
+        "answer": "Окінава"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '色々' read in word?",
+        "answer": "Різноманітний"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '東' read in word?",
+        "answer": "Схід"
+    }
+]

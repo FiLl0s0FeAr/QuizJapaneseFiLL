@@ -1,0 +1,87 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'とまります' read in word?",
+        "answer": "Залишитись (на ночівлю)"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'れんしゅう' read in word?",
+        "answer": "Тренування"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'せんたく' read in word?",
+        "answer": "Прання"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'そうじ' read in word?",
+        "answer": "Прибирання"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'はじまります' read in word?",
+        "answer": "Починається"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'しんがた' read in word?",
+        "answer": "Новий тип, стиль"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'ひらきます' read in word?",
+        "answer": "Відчиняти"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'かいじょう' read in word?",
+        "answer": "Зал, приміщення"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'たのしみます' read in word?",
+        "answer": "Насолоджуватися, розважатися"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'おおどおり' read in word?",
+        "answer": "Проспект, головна дорога"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'いじょう' read in word?",
+        "answer": "Вищезазначене, понад, більше"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'ぞう' read in word?",
+        "answer": "Статуя"
+    },
+    {
+        "id": "13",
+        "question": "How is the hiragana 'けいば' read in word?",
+        "answer": "Стрибки на конях"
+    },
+    {
+        "id": "14",
+        "question": "How is the hiragana 'きょうりゅう' read in word?",
+        "answer": "Динозавр"
+    },
+    {
+        "id": "15",
+        "question": "How is the hiragana 'たてもの' read in word?",
+        "answer": "Будівля"
+    },
+    {
+        "id": "16",
+        "question": "How is the hiragana 'うつします' read in word?",
+        "answer": "Знімати(відео), робити(фото), робити репродукцію"
+    },
+    {
+        "id": "17",
+        "question": "How is the hiragana 'えいぞう' read in word?",
+        "answer": "Відображення, картинка, кліп,фото"
+    }
+]

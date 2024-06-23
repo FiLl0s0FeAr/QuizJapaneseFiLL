@@ -1,0 +1,37 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'сонний' read in hiragana?",
+        "answer": "ねむい"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'сильний' read in hiragana?",
+        "answer": "つよい"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'слабкий' read in hiragana?",
+        "answer": "よわい"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'стан, настрій' read in hiragana?",
+        "answer": "ちょうし"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'почувати себе добре' read in hiragana?",
+        "answer": "ちょうしがいい"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'почувати себе погано' read in hiragana?",
+        "answer": "ちょうしがわるい"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'гольф (~をします: грати в гольф)' read in hiragana?",
+        "answer": "ゴルフ"
+    }
+]

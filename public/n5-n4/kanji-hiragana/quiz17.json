@@ -1,0 +1,57 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '風邪' read in hiragana?",
+        "answer": "かぜ"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '出張' read in hiragana?",
+        "answer": "しゅっちょう"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '出張します' read in hiragana?",
+        "answer": "しゅっちょうします"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji 'お大事に' read in hiragana?",
+        "answer": "おだいじ"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '飛びます' read in hiragana?",
+        "answer": "とびます"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '運びます' read in hiragana?",
+        "answer": "はこびます"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '戻します' read in hiragana?",
+        "answer": "もどします"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '星' read in hiragana?",
+        "answer": "ほし"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '光' read in hiragana?",
+        "answer": "ひかり"
+    },
+    {
+        "id": "10",
+        "question": "How is the kanji '空' read in hiragana?",
+        "answer": "そら"
+    },
+    {
+        "id": "11",
+        "question": "How is the kanji '音' read in hiragana?",
+        "answer": "おと"
+    }
+]

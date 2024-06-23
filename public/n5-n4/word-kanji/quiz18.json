@@ -1,0 +1,67 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Бігати' read in kanji?",
+        "answer": "走ります"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Пригати, стрибати' read in kanji?",
+        "answer": "跳びます"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Лізти, карапкатись, підніматись' read in kanji?",
+        "answer": "登ります"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Махати' read in kanji?",
+        "answer": "振ります"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Пірнати' read in kanji?",
+        "answer": "潜ります"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Натискати, штовхати' read in kanji?",
+        "answer": "押します"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Стукати' read in kanji?",
+        "answer": "叩きます"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'Падати, валитись' read in kanji?",
+        "answer": "転びます"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Кидати' read in kanji?",
+        "answer": "投げます"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'Піднімати' read in kanji?",
+        "answer": "持ち上げます"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'Озирнутися' read in kanji?",
+        "answer": "振り向きます"
+    },
+    {
+        "id": "12",
+        "question": "How is the word 'Стати дибом, стати на руки' read in kanji?",
+        "answer": "逆立ちます"
+    },
+    {
+        "id": "13",
+        "question": "How is the word 'протилежний, навпаки' read in kanji?",
+        "answer": "逆"
+    }
+]

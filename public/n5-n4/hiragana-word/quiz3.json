@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'しん ごう' read in word?",
+        "answer": "Світлофор"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'みぎ (へ|に), ひだり (へ|に)' read in word?",
+        "answer": "Поверніть, будь ласка, на…"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'うんてんしゅ' read in word?",
+        "answer": "Водій"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'つかれました' read in word?",
+        "answer": "Втомитися"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'びょういん' read in word?",
+        "answer": "Лікарня"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'しめます' read in word?",
+        "answer": "Закривати, закрито"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'やっきょく' read in word?",
+        "answer": "Аптека"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'といいました' read in word?",
+        "answer": "Сказав “～”"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'まっすぐ' read in word?",
+        "answer": "Прямо"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'おつり' read in word?",
+        "answer": "Решта"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'とても' read in word?",
+        "answer": "Дуже"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'ぐうぜん' read in word?",
+        "answer": "Випадково"
+    }
+]

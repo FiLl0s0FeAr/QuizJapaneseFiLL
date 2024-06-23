@@ -1,0 +1,277 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'ひっこしします' read in kanji?",
+        "answer": "引っ越します"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'かよいます' read in kanji?",
+        "answer": "通います"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'そば, がわ' read in kanji?",
+        "answer": "側"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'ころ' read in kanji?",
+        "answer": "頃"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'ことば' read in kanji?",
+        "answer": "言葉"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'せっとうじ' read in kanji?",
+        "answer": "接頭辞"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'せつびじ' read in kanji?",
+        "answer": "接尾辞"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'だいがっこう' read in kanji?",
+        "answer": "大学校"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'しんじてんしゃ' read in kanji?",
+        "answer": "新自転車"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'ふしんせつ' read in kanji?",
+        "answer": "不親切な"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'ごじゅうしょ' read in kanji?",
+        "answer": "御住所"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'けんきゅうじょ' read in kanji?",
+        "answer": "研究所"
+    },
+    {
+        "id": "13",
+        "question": "How is the hiragana 'えいがかん' read in kanji?",
+        "answer": "映画館"
+    },
+    {
+        "id": "14",
+        "question": "How is the hiragana 'おんがくか' read in kanji?",
+        "answer": "音楽家"
+    },
+    {
+        "id": "15",
+        "question": "How is the hiragana 'どうぶつえん' read in kanji?",
+        "answer": "動物園"
+    },
+    {
+        "id": "16",
+        "question": "How is the hiragana 'どうぶつ' read in kanji?",
+        "answer": "動物"
+    },
+    {
+        "id": "17",
+        "question": "How is the hiragana 'えん' read in kanji?",
+        "answer": "園"
+    },
+    {
+        "id": "18",
+        "question": "How is the hiragana 'としょかん' read in kanji?",
+        "answer": "図書館"
+    },
+    {
+        "id": "19",
+        "question": "How is the hiragana 'ふるほんや' read in kanji?",
+        "answer": "古本屋"
+    },
+    {
+        "id": "20",
+        "question": "How is the hiragana 'しんぶんしゃ' read in kanji?",
+        "answer": "新聞社"
+    },
+    {
+        "id": "21",
+        "question": "How is the hiragana 'ふゆうめい' read in kanji?",
+        "answer": "不有名"
+    },
+    {
+        "id": "22",
+        "question": "How is the hiragana 'ごはん' read in kanji?",
+        "answer": "御飯"
+    },
+    {
+        "id": "23",
+        "question": "How is the hiragana 'ふにんき' read in kanji?",
+        "answer": "不人気"
+    },
+    {
+        "id": "24",
+        "question": "How is the hiragana 'しんこうえん' read in kanji?",
+        "answer": "新公園"
+    },
+    {
+        "id": "25",
+        "question": "How is the hiragana 'ぎんこうか' read in kanji?",
+        "answer": "銀行家"
+    },
+    {
+        "id": "26",
+        "question": "How is the hiragana 'さっか' read in kanji?",
+        "answer": "作家"
+    },
+    {
+        "id": "27",
+        "question": "How is the hiragana 'しんさくぶん' read in kanji?",
+        "answer": "新作分"
+    },
+    {
+        "id": "28",
+        "question": "How is the hiragana 'ところ' read in kanji?",
+        "answer": "所"
+    },
+    {
+        "id": "29",
+        "question": "How is the hiragana 'せまくて, ちいさいところ' read in kanji?",
+        "answer": "狭くて、小さいところ"
+    },
+    {
+        "id": "30",
+        "question": "How is the hiragana 'じゅうしょ' read in kanji?",
+        "answer": "住所"
+    },
+    {
+        "id": "31",
+        "question": "How is the hiragana 'きんじょ' read in kanji?",
+        "answer": "近所"
+    },
+    {
+        "id": "32",
+        "question": "How is the hiragana 'めいじょ' read in kanji?",
+        "answer": "名所"
+    },
+    {
+        "id": "33",
+        "question": "How is the hiragana 'とくべつなしごとすること' read in kanji?",
+        "answer": "特別な仕事すること"
+    },
+    {
+        "id": "34",
+        "question": "How is the hiragana 'けんきゅうじょ' read in kanji?",
+        "answer": "研究所"
+    },
+    {
+        "id": "35",
+        "question": "How is the hiragana 'しやくしょ' read in kanji?",
+        "answer": "市役所"
+    },
+    {
+        "id": "36",
+        "question": "How is the hiragana 'けいむしょ' read in kanji?",
+        "answer": "刑務所"
+    },
+    {
+        "id": "37",
+        "question": "How is the hiragana 'ジョウ・ば' read in kanji?",
+        "answer": "場"
+    },
+    {
+        "id": "38",
+        "question": "How is the hiragana 'ひとがあつまるところです' read in kanji?",
+        "answer": "人が集まる所です"
+    },
+    {
+        "id": "39",
+        "question": "How is the hiragana 'かいじょう' read in kanji?",
+        "answer": "会場"
+    },
+    {
+        "id": "40",
+        "question": "How is the hiragana 'よくじょう' read in kanji?",
+        "answer": "浴場"
+    },
+    {
+        "id": "41",
+        "question": "How is the hiragana 'いちば' read in kanji?",
+        "answer": "市場"
+    },
+    {
+        "id": "42",
+        "question": "How is the hiragana 'なにかおこなうことです' read in kanji?",
+        "answer": "何か行うことです"
+    },
+    {
+        "id": "43",
+        "question": "How is the hiragana 'げきじょう' read in kanji?",
+        "answer": "劇場"
+    },
+    {
+        "id": "44",
+        "question": "How is the hiragana 'しきじょう' read in kanji?",
+        "answer": "式場"
+    },
+    {
+        "id": "45",
+        "question": "How is the hiragana 'せんじょう' read in kanji?",
+        "answer": "戦場"
+    },
+    {
+        "id": "46",
+        "question": "How is the hiragana 'く' read in kanji?",
+        "answer": "区"
+    },
+    {
+        "id": "47",
+        "question": "How is the hiragana 'とちをわけたところ' read in kanji?",
+        "answer": "土地を分けたところ"
+    },
+    {
+        "id": "48",
+        "question": "How is the hiragana 'がっく' read in kanji?",
+        "answer": "学区"
+    },
+    {
+        "id": "49",
+        "question": "How is the hiragana 'とっく' read in kanji?",
+        "answer": "特区"
+    },
+    {
+        "id": "50",
+        "question": "How is the hiragana 'しんじゅくく' read in kanji?",
+        "answer": "新宿区"
+    },
+    {
+        "id": "51",
+        "question": "How is the hiragana 'チ・ジ' read in kanji?",
+        "answer": "地"
+    },
+    {
+        "id": "52",
+        "question": "How is the hiragana 'ちめんやとち' read in kanji?",
+        "answer": "地面や土地"
+    },
+    {
+        "id": "53",
+        "question": "How is the hiragana 'しゃくち' read in kanji?",
+        "answer": "借地"
+    },
+    {
+        "id": "54",
+        "question": "How is the hiragana 'ぼち' read in kanji?",
+        "answer": "墓地"
+    },
+    {
+        "id": "55",
+        "question": "How is the hiragana 'さんち' read in kanji?",
+        "answer": "山地"
+    }
+]

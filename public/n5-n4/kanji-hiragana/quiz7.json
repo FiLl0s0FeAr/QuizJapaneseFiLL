@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '駅員' read in hiragana?",
+        "answer": "えきいん"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '教師' read in hiragana?",
+        "answer": "きょうし"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '建築家' read in hiragana?",
+        "answer": "けんちくか"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '作家' read in hiragana?",
+        "answer": "さっか"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '外交官' read in hiragana?",
+        "answer": "がいこうかん"
+    }
+]

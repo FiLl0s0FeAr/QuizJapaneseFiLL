@@ -1,0 +1,57 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '風邪' read in word?",
+        "answer": "Простуда"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '出張' read in word?",
+        "answer": "Відрядження"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '出張します' read in word?",
+        "answer": "Відрядженняїхати у відрядження"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji 'お大事に' read in word?",
+        "answer": "Будь здоров, бережи себе"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '飛びます' read in word?",
+        "answer": "Літати"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '運びます' read in word?",
+        "answer": "Переносити, переставляти"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '戻します' read in word?",
+        "answer": "Повертати (на попереднє місце)"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '星' read in word?",
+        "answer": "Зірка"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '光' read in word?",
+        "answer": "Світ, блиск, промінь"
+    },
+    {
+        "id": "10",
+        "question": "How is the kanji '空' read in word?",
+        "answer": "Небо"
+    },
+    {
+        "id": "11",
+        "question": "How is the kanji '音' read in word?",
+        "answer": "Звук"
+    }
+]

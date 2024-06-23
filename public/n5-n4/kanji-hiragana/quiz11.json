@@ -1,0 +1,47 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '乗ります' read in hiragana?",
+        "answer": "のります"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '電車に乗ります' read in hiragana?",
+        "answer": "でんしゃにのります"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '乗りかえます' read in hiragana?",
+        "answer": "のりかえます"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '大学をでます' read in hiragana?",
+        "answer": "だいがくをでます"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '頭' read in hiragana?",
+        "answer": "あたま"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '髪' read in hiragana?",
+        "answer": "かみ"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '顔' read in hiragana?",
+        "answer": "かお"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '目' read in hiragana?",
+        "answer": "め"
+    },
+    {
+        "id": "09",
+        "question": "How is the kanji '耳' read in hiragana?",
+        "answer": "みみ"
+    }
+]

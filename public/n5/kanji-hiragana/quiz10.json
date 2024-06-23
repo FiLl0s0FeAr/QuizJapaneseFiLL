@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '売ります' read in hiragana?",
+        "answer": "うります"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '知ります' read in hiragana?",
+        "answer": "しります"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '住みます' read in hiragana?",
+        "answer": "すみます"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '研究します' read in hiragana?",
+        "answer": "けんきゅうします"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '資料' read in hiragana?",
+        "answer": "しりょう"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '時刻表' read in hiragana?",
+        "answer": "じこくひょう"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '独身' read in hiragana?",
+        "answer": "どくしん"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '床屋' read in hiragana?",
+        "answer": "とこや"
+    }
+]

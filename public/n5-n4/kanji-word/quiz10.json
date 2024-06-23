@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '売ります' read in word?",
+        "answer": "Продавати"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '知ります' read in word?",
+        "answer": "Знати"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '住みます' read in word?",
+        "answer": "Проживати"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '研究します' read in word?",
+        "answer": "Досліджувати"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '資料' read in word?",
+        "answer": "Документ"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '時刻表' read in word?",
+        "answer": "Розклад"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '独身' read in word?",
+        "answer": "Холостяк"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '床屋' read in word?",
+        "answer": "Перукарня (чоловіча)"
+    }
+]

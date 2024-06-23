@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '信号' read in hiragana?",
+        "answer": "しん ごう"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '～へ　まがって ください' read in hiragana?",
+        "answer": "みぎ (へ|に), ひだり (へ|に)"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '運転手' read in hiragana?",
+        "answer": "うんてんしゅ"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '疲れました' read in hiragana?",
+        "answer": "つかれました"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '病院' read in hiragana?",
+        "answer": "びょういん"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '閉めます' read in hiragana?",
+        "answer": "しめます"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '薬局' read in hiragana?",
+        "answer": "やっきょく"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '「～」と言いました' read in hiragana?",
+        "answer": "といいました"
+    }
+]

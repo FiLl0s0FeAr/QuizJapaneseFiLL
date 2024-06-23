@@ -1,0 +1,37 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Яскравий' read in hiragana?",
+        "answer": "あかるい"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Темний' read in hiragana?",
+        "answer": "くらい"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Сервіс' read in hiragana?",
+        "answer": "サービス"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Біг' read in hiragana?",
+        "answer": "ジョギング"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Як' read in hiragana?",
+        "answer": "どうやって"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Котрий' read in hiragana?",
+        "answer": "どの"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Ні, ще ні.' read in hiragana?",
+        "answer": "いいえ、まだまだです"
+    }
+]

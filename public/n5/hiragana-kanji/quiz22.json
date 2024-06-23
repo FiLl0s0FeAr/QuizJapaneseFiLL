@@ -1,0 +1,82 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'いろんな' read in kanji?",
+        "answer": "色んな"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'たび' read in kanji?",
+        "answer": "旅"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'はっぱ' read in kanji?",
+        "answer": "葉っぱ"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'いけばな' read in kanji?",
+        "answer": "生け花"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'やきいも' read in kanji?",
+        "answer": "焼き芋"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'ようじ' read in kanji?",
+        "answer": "用事"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'しゅくだい' read in kanji?",
+        "answer": "宿題"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'たいへん' read in kanji?",
+        "answer": "大変"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'バスてい' read in kanji?",
+        "answer": "バス停"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'もんばん' read in kanji?",
+        "answer": "門番"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'ならびます' read in kanji?",
+        "answer": "並びます"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'こくりつ' read in kanji?",
+        "answer": "国立"
+    },
+    {
+        "id": "13",
+        "question": "How is the hiragana 'たとえば' read in kanji?",
+        "answer": "例えば"
+    },
+    {
+        "id": "14",
+        "question": "How is the hiragana 'じゅぎょう' read in kanji?",
+        "answer": "授業"
+    },
+    {
+        "id": "15",
+        "question": "How is the hiragana 'かんたん' read in kanji?",
+        "answer": "簡単(な）"
+    },
+    {
+        "id": "16",
+        "question": "How is the hiragana 'おかし' read in kanji?",
+        "answer": "お菓子"
+    }
+]

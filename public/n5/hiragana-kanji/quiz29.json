@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'ねむい' read in kanji?",
+        "answer": "眠い"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'つよい' read in kanji?",
+        "answer": "強い"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'よわい' read in kanji?",
+        "answer": "弱い"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'ちょうし' read in kanji?",
+        "answer": "調子"
+    }
+]

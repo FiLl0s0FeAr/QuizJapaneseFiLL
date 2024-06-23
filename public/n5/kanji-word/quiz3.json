@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '信号' read in word?",
+        "answer": "Світлофор"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '～へ　まがって ください' read in word?",
+        "answer": "Поверніть, будь ласка, на…"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '運転手' read in word?",
+        "answer": "Водій"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '疲れました' read in word?",
+        "answer": "Втомитися"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '病院' read in word?",
+        "answer": "Лікарня"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '閉めます' read in word?",
+        "answer": "Закривати, закрито"
+    },
+    {
+        "id": "07",
+        "question": "How is the kanji '薬局' read in word?",
+        "answer": "Аптека"
+    },
+    {
+        "id": "08",
+        "question": "How is the kanji '「～」と言いました' read in word?",
+        "answer": "Сказав “～”"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Працівник станції' read in kanji?",
+        "answer": "駅員"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Викладач' read in kanji?",
+        "answer": "教師"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Архітектор' read in kanji?",
+        "answer": "建築家"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Письменник' read in kanji?",
+        "answer": "作家"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Дипломат' read in kanji?",
+        "answer": "外交官"
+    }
+]

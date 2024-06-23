@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'あぶない' read in word?",
+        "answer": "Небезпечний"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'もんだい' read in word?",
+        "answer": "Проблема, питання"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'こたえ' read in word?",
+        "answer": "Відповідь"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'きんえん' read in word?",
+        "answer": "Заборона куріння"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'うわぎ' read in word?",
+        "answer": "Верхній одяг"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'したぎ' read in word?",
+        "answer": "Нижня білизна"
+    }
+]

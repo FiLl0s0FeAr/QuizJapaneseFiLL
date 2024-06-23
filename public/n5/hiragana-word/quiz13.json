@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'おぼえます' read in word?",
+        "answer": "Пам*ятати"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'わすれます' read in word?",
+        "answer": "Забувати"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'なくします' read in word?",
+        "answer": "Губити"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'はらいます' read in word?",
+        "answer": "Платити"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'かえします' read in word?",
+        "answer": "Повертати"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'でかけます' read in word?",
+        "answer": "Виходити, відправлятись"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'ぬぎます' read in word?",
+        "answer": "Знімати (взуття,одяг)"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'だします' read in word?",
+        "answer": "Здавати"
+    }
+]

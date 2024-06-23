@@ -1,0 +1,102 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'でんとうぶんか' read in word?",
+        "answer": "Традиційна культура"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'ごらく' read in word?",
+        "answer": "розваги"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'さどう' read in word?",
+        "answer": "Чайна церемонія"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'おちゃ' read in word?",
+        "answer": "чай"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'みち' read in word?",
+        "answer": "шлях"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'しょどう' read in word?",
+        "answer": "Каліграфія"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'かぶき' read in word?",
+        "answer": "Кабукі"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'のう' read in word?",
+        "answer": "Театр Но"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'ぶんらく' read in word?",
+        "answer": "Театр Бунраку"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'すもう' read in word?",
+        "answer": "Сумо"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'じゅうどう' read in word?",
+        "answer": "Дзюдо"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'けんどう' read in word?",
+        "answer": "Кендо"
+    },
+    {
+        "id": "13",
+        "question": "How is the hiragana 'からて' read in word?",
+        "answer": "Карате"
+    },
+    {
+        "id": "14",
+        "question": "How is the hiragana 'まんざい' read in word?",
+        "answer": "Комедійний діалог на сцені・Ракуґо (комічне естрадне оповідання)"
+    },
+    {
+        "id": "15",
+        "question": "How is the hiragana 'らくご' read in word?",
+        "answer": "Комедійний діалог на сцені・Ракуґо (комічне естрадне оповідання)"
+    },
+    {
+        "id": "16",
+        "question": "How is the hiragana 'いご' read in word?",
+        "answer": "Ґо"
+    },
+    {
+        "id": "17",
+        "question": "How is the hiragana 'しょうぎ' read in word?",
+        "answer": "Сьоги"
+    },
+    {
+        "id": "18",
+        "question": "How is the hiragana 'パチンコ' read in word?",
+        "answer": "Ігровий автомат"
+    },
+    {
+        "id": "19",
+        "question": "How is the hiragana 'ぼんおどり' read in word?",
+        "answer": "Танець на фестиваль “Бон”"
+    },
+    {
+        "id": "20",
+        "question": "How is the hiragana 'おどり' read in word?",
+        "answer": "Танець"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Небезпечний' read in kanji?",
+        "answer": "危ない"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Проблема, питання' read in kanji?",
+        "answer": "問題"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Відповідь' read in kanji?",
+        "answer": "答え"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Заборона куріння' read in kanji?",
+        "answer": "禁煙"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Верхній одяг' read in kanji?",
+        "answer": "上着"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Нижня білизна' read in kanji?",
+        "answer": "下着"
+    }
+]

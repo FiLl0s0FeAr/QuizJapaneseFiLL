@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '想像' read in hiragana?",
+        "answer": "そうぞう"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '受付' read in hiragana?",
+        "answer": "うけつけ"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '皿' read in hiragana?",
+        "answer": "さら"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '神様' read in hiragana?",
+        "answer": "かみさま"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '扇' read in hiragana?",
+        "answer": "おうぎ"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '神話' read in hiragana?",
+        "answer": "しんわ"
+    }
+]

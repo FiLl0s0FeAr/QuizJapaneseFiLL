@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the kanji '残業します' read in word?",
+        "answer": "Працювати понаднормово"
+    },
+    {
+        "id": "02",
+        "question": "How is the kanji '残業' read in word?",
+        "answer": "переробка"
+    },
+    {
+        "id": "03",
+        "question": "How is the kanji '捨てます' read in word?",
+        "answer": "Викидати"
+    },
+    {
+        "id": "04",
+        "question": "How is the kanji '洗います' read in word?",
+        "answer": "Мити, прати"
+    },
+    {
+        "id": "05",
+        "question": "How is the kanji '曲げります' read in word?",
+        "answer": "Згинати"
+    },
+    {
+        "id": "06",
+        "question": "How is the kanji '這います' read in word?",
+        "answer": "Повзати"
+    }
+]

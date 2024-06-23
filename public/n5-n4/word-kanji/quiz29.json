@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'сонний' read in kanji?",
+        "answer": "眠い"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'сильний' read in kanji?",
+        "answer": "強い"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'слабкий' read in kanji?",
+        "answer": "弱い"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'стан, настрій' read in kanji?",
+        "answer": "調子"
+    }
+]

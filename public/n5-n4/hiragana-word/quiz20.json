@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'そうぞう' read in word?",
+        "answer": "Уява"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'うけつけ' read in word?",
+        "answer": "Ресепшн"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'さら' read in word?",
+        "answer": "Тарілка"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'かみさま' read in word?",
+        "answer": "Бог"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'おうぎ' read in word?",
+        "answer": "Віяло"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'しんわ' read in word?",
+        "answer": "Міфологія"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'てつだいます' read in word?",
+        "answer": "Допомагати"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'てつだい' read in word?",
+        "answer": "допомога"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'しめます' read in word?",
+        "answer": "Зачиняти"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'けします' read in word?",
+        "answer": "Вимикати"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'あけます' read in word?",
+        "answer": "Відчиняти"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'いそぎます' read in word?",
+        "answer": "Спішити"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'まちます' read in word?",
+        "answer": "Очікувати"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'とまります' read in word?",
+        "answer": "Зупинятись"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'とります' read in word?",
+        "answer": "Брати"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'まがります' read in word?",
+        "answer": "Повертати"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'もちます' read in word?",
+        "answer": "Тримати"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'つけます' read in word?",
+        "answer": "Вмикати"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'もっていきます' read in word?",
+        "answer": "Брати з собою"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'もってきます' read in word?",
+        "answer": "Приносити з собою"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'しんぱいします' read in word?",
+        "answer": "Хвилюватись"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'しんぱい' read in word?",
+        "answer": "хвилювання"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'こたえます' read in word?",
+        "answer": "Відповідати"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'こたえ' read in word?",
+        "answer": "відповідь"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'はきけ' read in word?",
+        "answer": "Нудота"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'はきけがします' read in word?",
+        "answer": "відчувати нудоту"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'せき' read in word?",
+        "answer": "Кашель"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'せきがでます' read in word?",
+        "answer": "кашляти"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'おなか' read in word?",
+        "answer": "Живіт"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'は' read in word?",
+        "answer": "Зуб"
+    },
+    {
+        "id": "13",
+        "question": "How is the hiragana 'ねつ' read in word?",
+        "answer": "Жар, гарячка"
+    },
+    {
+        "id": "14",
+        "question": "How is the hiragana 'やけど' read in word?",
+        "answer": "Опік"
+    }
+]

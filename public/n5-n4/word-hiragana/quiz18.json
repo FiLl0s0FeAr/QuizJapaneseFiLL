@@ -1,0 +1,67 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Бігати' read in hiragana?",
+        "answer": "はしります"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Пригати, стрибати' read in hiragana?",
+        "answer": "とびます"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Лізти, карапкатись, підніматись' read in hiragana?",
+        "answer": "のぼります"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Махати' read in hiragana?",
+        "answer": "ふります"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Пірнати' read in hiragana?",
+        "answer": "もぐります"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'Натискати, штовхати' read in hiragana?",
+        "answer": "おします"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Стукати' read in hiragana?",
+        "answer": "たたきます"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'Падати, валитись' read in hiragana?",
+        "answer": "ころびます"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Кидати' read in hiragana?",
+        "answer": "なげます"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'Піднімати' read in hiragana?",
+        "answer": "もちあげます"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'Озирнутися' read in hiragana?",
+        "answer": "ふりむきます"
+    },
+    {
+        "id": "12",
+        "question": "How is the word 'Стати дибом, стати на руки' read in hiragana?",
+        "answer": "さかだちます"
+    },
+    {
+        "id": "13",
+        "question": "How is the word 'протилежний, навпаки' read in hiragana?",
+        "answer": "ぎゃく"
+    }
+]

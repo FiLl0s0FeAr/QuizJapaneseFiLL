@@ -1,0 +1,282 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Переїжджати' read in hiragana?",
+        "answer": "ひっこしします"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Відвідувати' read in hiragana?",
+        "answer": "かよいます"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'Сторона, бік' read in hiragana?",
+        "answer": "そば, がわ"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Період, час, пора' read in hiragana?",
+        "answer": "ころ"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Доречі' read in hiragana?",
+        "answer": "ところで"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'слово' read in hiragana?",
+        "answer": "ことば"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'префікс' read in hiragana?",
+        "answer": "せっとうじ"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'суфікс' read in hiragana?",
+        "answer": "せつびじ"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'велика школа' read in hiragana?",
+        "answer": "だいがっこう"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'новий велосипед' read in hiragana?",
+        "answer": "しんじてんしゃ"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'не дружній' read in hiragana?",
+        "answer": "ふしんせつ"
+    },
+    {
+        "id": "12",
+        "question": "How is the word 'адреса (ввічливо)' read in hiragana?",
+        "answer": "ごじゅうしょ"
+    },
+    {
+        "id": "13",
+        "question": "How is the word 'лабораторія' read in hiragana?",
+        "answer": "けんきゅうじょ"
+    },
+    {
+        "id": "14",
+        "question": "How is the word 'кінотеатр' read in hiragana?",
+        "answer": "えいがかん"
+    },
+    {
+        "id": "15",
+        "question": "How is the word 'музикант' read in hiragana?",
+        "answer": "おんがくか"
+    },
+    {
+        "id": "16",
+        "question": "How is the word 'зоопарк' read in hiragana?",
+        "answer": "どうぶつえん"
+    },
+    {
+        "id": "17",
+        "question": "How is the word 'тварина' read in hiragana?",
+        "answer": "どうぶつ"
+    },
+    {
+        "id": "18",
+        "question": "How is the word 'парк' read in hiragana?",
+        "answer": "えん"
+    },
+    {
+        "id": "19",
+        "question": "How is the word 'бібліотека' read in hiragana?",
+        "answer": "としょかん"
+    },
+    {
+        "id": "20",
+        "question": "How is the word 'старий книжний' read in hiragana?",
+        "answer": "ふるほんや"
+    },
+    {
+        "id": "21",
+        "question": "How is the word 'видання газет' read in hiragana?",
+        "answer": "しんぶんしゃ"
+    },
+    {
+        "id": "22",
+        "question": "How is the word 'не популярний' read in hiragana?",
+        "answer": "ふゆうめい"
+    },
+    {
+        "id": "23",
+        "question": "How is the word 'їжа, рис' read in hiragana?",
+        "answer": "ごはん"
+    },
+    {
+        "id": "24",
+        "question": "How is the word 'не популярний' read in hiragana?",
+        "answer": "ふにんき"
+    },
+    {
+        "id": "25",
+        "question": "How is the word 'новий парк' read in hiragana?",
+        "answer": "しんこうえん"
+    },
+    {
+        "id": "26",
+        "question": "How is the word 'банкір' read in hiragana?",
+        "answer": "ぎんこうか"
+    },
+    {
+        "id": "27",
+        "question": "How is the word 'письменник' read in hiragana?",
+        "answer": "さっか"
+    },
+    {
+        "id": "28",
+        "question": "How is the word 'новий твір' read in hiragana?",
+        "answer": "しんさくぶん"
+    },
+    {
+        "id": "29",
+        "question": "How is the word 'місце' read in hiragana?",
+        "answer": "ところ"
+    },
+    {
+        "id": "30",
+        "question": "How is the word 'Вузькі, малі місця' read in hiragana?",
+        "answer": "せまくて, ちいさいところ"
+    },
+    {
+        "id": "31",
+        "question": "How is the word 'адреса' read in hiragana?",
+        "answer": "じゅうしょ"
+    },
+    {
+        "id": "32",
+        "question": "How is the word 'околиця' read in hiragana?",
+        "answer": "きんじょ"
+    },
+    {
+        "id": "33",
+        "question": "How is the word 'визначні місця' read in hiragana?",
+        "answer": "めいじょ"
+    },
+    {
+        "id": "34",
+        "question": "How is the word 'роблять особливу роботу' read in hiragana?",
+        "answer": "とくべつなしごとすること"
+    },
+    {
+        "id": "35",
+        "question": "How is the word 'лабораторія' read in hiragana?",
+        "answer": "けんきゅうじょ"
+    },
+    {
+        "id": "36",
+        "question": "How is the word 'посольство' read in hiragana?",
+        "answer": "しやくしょ"
+    },
+    {
+        "id": "37",
+        "question": "How is the word 'в’язниця' read in hiragana?",
+        "answer": "けいむしょ"
+    },
+    {
+        "id": "38",
+        "question": "How is the word 'місце' read in hiragana?",
+        "answer": "ジョウ・ば"
+    },
+    {
+        "id": "39",
+        "question": "How is the word 'місце, де збираються люди' read in hiragana?",
+        "answer": "ひとがあつまるところです"
+    },
+    {
+        "id": "40",
+        "question": "How is the word 'зал засідань' read in hiragana?",
+        "answer": "かいじょう"
+    },
+    {
+        "id": "41",
+        "question": "How is the word 'баня, душ' read in hiragana?",
+        "answer": "よくじょう"
+    },
+    {
+        "id": "42",
+        "question": "How is the word 'ринок, базар' read in hiragana?",
+        "answer": "いちば"
+    },
+    {
+        "id": "43",
+        "question": "How is the word 'щось трапляється(івенти, події)' read in hiragana?",
+        "answer": "なにかおこなうことです"
+    },
+    {
+        "id": "44",
+        "question": "How is the word 'театр' read in hiragana?",
+        "answer": "げきじょう"
+    },
+    {
+        "id": "45",
+        "question": "How is the word 'зал церемонії' read in hiragana?",
+        "answer": "しきじょう"
+    },
+    {
+        "id": "46",
+        "question": "How is the word 'фронт, поле бою' read in hiragana?",
+        "answer": "せんじょう"
+    },
+    {
+        "id": "47",
+        "question": "How is the word 'сторожити' read in hiragana?",
+        "answer": "く"
+    },
+    {
+        "id": "48",
+        "question": "How is the word 'земельні ділянки поділені' read in hiragana?",
+        "answer": "とちをわけたところ"
+    },
+    {
+        "id": "49",
+        "question": "How is the word 'шкільний район' read in hiragana?",
+        "answer": "がっく"
+    },
+    {
+        "id": "50",
+        "question": "How is the word 'спеціальна зона' read in hiragana?",
+        "answer": "とっく"
+    },
+    {
+        "id": "51",
+        "question": "How is the word 'район Шінджюку' read in hiragana?",
+        "answer": "しんじゅくく"
+    },
+    {
+        "id": "52",
+        "question": "How is the word 'земля' read in hiragana?",
+        "answer": "チ・ジ"
+    },
+    {
+        "id": "53",
+        "question": "How is the word 'земельні ділянки і поверхня землі' read in hiragana?",
+        "answer": "ちめんやとち"
+    },
+    {
+        "id": "54",
+        "question": "How is the word 'оренда землі' read in hiragana?",
+        "answer": "しゃくち"
+    },
+    {
+        "id": "55",
+        "question": "How is the word 'цвинтар' read in hiragana?",
+        "answer": "ぼち"
+    },
+    {
+        "id": "56",
+        "question": "How is the word 'скеляста місцина' read in hiragana?",
+        "answer": "さんち"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'あぶない' read in kanji?",
+        "answer": "危ない"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'もんだい' read in kanji?",
+        "answer": "問題"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'こたえ' read in kanji?",
+        "answer": "答え"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'きんえん' read in kanji?",
+        "answer": "禁煙"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'うわぎ' read in kanji?",
+        "answer": "上着"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'したぎ' read in kanji?",
+        "answer": "下着"
+    }
+]

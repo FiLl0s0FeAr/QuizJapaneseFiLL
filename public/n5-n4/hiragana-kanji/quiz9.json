@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'たちます' read in kanji?",
+        "answer": "立ちます"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'すわります' read in kanji?",
+        "answer": "座ります"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'つかいます' read in kanji?",
+        "answer": "使います"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'おきます' read in kanji?",
+        "answer": "置きます"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'つくります' read in kanji?",
+        "answer": "作ります"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'おもいだします' read in kanji?",
+        "answer": "思い出します"
+    }
+]

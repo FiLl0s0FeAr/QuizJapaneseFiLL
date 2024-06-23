@@ -1,0 +1,72 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'もっていきます' read in kanji?",
+        "answer": "持って行きます"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'もってきます' read in kanji?",
+        "answer": "持って来ます"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'しんぱいします' read in kanji?",
+        "answer": "心配します"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'しんぱい' read in kanji?",
+        "answer": "心配"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'こたえます' read in kanji?",
+        "answer": "答えます"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'こたえ' read in kanji?",
+        "answer": "答え"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'はきけ' read in kanji?",
+        "answer": "吐き気"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'はきけがします' read in kanji?",
+        "answer": "吐き気がします"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'せき' read in kanji?",
+        "answer": "咳"
+    },
+    {
+        "id": "10",
+        "question": "How is the hiragana 'せきがでます' read in kanji?",
+        "answer": "咳がでます"
+    },
+    {
+        "id": "11",
+        "question": "How is the hiragana 'おなか' read in kanji?",
+        "answer": "お腹"
+    },
+    {
+        "id": "12",
+        "question": "How is the hiragana 'は' read in kanji?",
+        "answer": "歯"
+    },
+    {
+        "id": "13",
+        "question": "How is the hiragana 'ねつ' read in kanji?",
+        "answer": "熱"
+    },
+    {
+        "id": "14",
+        "question": "How is the hiragana 'やけど' read in kanji?",
+        "answer": "火傷"
+    }
+]

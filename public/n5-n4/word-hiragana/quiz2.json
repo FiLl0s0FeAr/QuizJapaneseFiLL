@@ -1,0 +1,72 @@
+[
+    {
+        "id": "01",
+        "question": "How is the word 'Виходити заміж, одружуватися' read in hiragana?",
+        "answer": "けっこんします"
+    },
+    {
+        "id": "02",
+        "question": "How is the word 'Реєструвати' read in hiragana?",
+        "answer": "とうろくします"
+    },
+    {
+        "id": "03",
+        "question": "How is the word 'реєстрація' read in hiragana?",
+        "answer": "とうろく"
+    },
+    {
+        "id": "04",
+        "question": "How is the word 'Рибалити' read in hiragana?",
+        "answer": "つりします"
+    },
+    {
+        "id": "05",
+        "question": "How is the word 'Проводити засідання' read in hiragana?",
+        "answer": "かいぎします"
+    },
+    {
+        "id": "06",
+        "question": "How is the word 'засідання, конференція' read in hiragana?",
+        "answer": "かいぎ"
+    },
+    {
+        "id": "07",
+        "question": "How is the word 'Їсти' read in hiragana?",
+        "answer": "しょくじします"
+    },
+    {
+        "id": "08",
+        "question": "How is the word 'їжа' read in hiragana?",
+        "answer": "しょくじ"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'Робити покупки' read in hiragana?",
+        "answer": "かいものします"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'покупки' read in hiragana?",
+        "answer": "かいもの"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'Я зголоднів “Живіт став пустим”' read in hiragana?",
+        "answer": "おなかがすきました"
+    },
+    {
+        "id": "12",
+        "question": "How is the word 'Я ситий “Живіт став повним' read in hiragana?",
+        "answer": "おなかがいっぱい"
+    },
+    {
+        "id": "13",
+        "question": "How is the word 'Хочу пити “Горло пересохло”' read in hiragana?",
+        "answer": "のどがかわきました"
+    }, 
+    {
+        "id": "14",
+        "question": "How is the word 'Так і поступимо (вираження згоди)' read in hiragana?",
+        "answer": "そうしましょう"
+    }
+]

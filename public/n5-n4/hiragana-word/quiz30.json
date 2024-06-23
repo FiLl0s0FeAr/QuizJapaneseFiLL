@@ -1,0 +1,47 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'おかげさまで' read in word?",
+        "answer": "завдяки вам, Дякую за турботу"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'かんぱい' read in word?",
+        "answer": "будьмо! (тост)"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'ダイエット' read in word?",
+        "answer": "дієта"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'ダイエットをします' read in word?",
+        "answer": "бути на дієті"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'かい' read in word?",
+        "answer": "Багато разів, неодноразово"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'しかし' read in word?",
+        "answer": "однак, проте"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'からだにいい' read in word?",
+        "answer": "корисний для здоров’я"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'むり' read in word?",
+        "answer": "занадто важкий, надмірний"
+    },
+    {
+        "id": "09",
+        "question": "How is the hiragana 'じつは' read in word?",
+        "answer": "насправді, чесно кажучи, річ у тім"
+    }
+]

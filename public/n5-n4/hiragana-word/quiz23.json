@@ -1,0 +1,27 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'けんがくします' read in word?",
+        "answer": "Відвідувати (для навчання), практичне вивчення"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'いのりします' read in word?",
+        "answer": "Молитись"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'かちょう' read in word?",
+        "answer": "Начальник відділу"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'ぶちょう' read in word?",
+        "answer": "Начальник департаменту"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'しゃちょう' read in word?",
+        "answer": "Президент компанії"
+    }
+]

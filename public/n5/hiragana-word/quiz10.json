@@ -1,0 +1,57 @@
+[
+    {
+        "id": "01",
+        "question": "How is the hiragana 'うります' read in word?",
+        "answer": "Продавати"
+    },
+    {
+        "id": "02",
+        "question": "How is the hiragana 'しります' read in word?",
+        "answer": "Знати"
+    },
+    {
+        "id": "03",
+        "question": "How is the hiragana 'すみます' read in word?",
+        "answer": "Проживати"
+    },
+    {
+        "id": "04",
+        "question": "How is the hiragana 'けんきゅうします' read in word?",
+        "answer": "Досліджувати"
+    },
+    {
+        "id": "05",
+        "question": "How is the hiragana 'しりょう' read in word?",
+        "answer": "Документ"
+    },
+    {
+        "id": "06",
+        "question": "How is the hiragana 'じこくひょう' read in word?",
+        "answer": "Розклад"
+    },
+    {
+        "id": "07",
+        "question": "How is the hiragana 'どくしん' read in word?",
+        "answer": "Холостяк"
+    },
+    {
+        "id": "08",
+        "question": "How is the hiragana 'とこや' read in word?",
+        "answer": "Перукарня (чоловіча)"
+    },
+    {
+        "id": "09",
+        "question": "How is the word 'びよういん' read in hiragana?",
+        "answer": "Салон краси, перукарня (жіноча)"
+    },
+    {
+        "id": "10",
+        "question": "How is the word 'じぶん' read in hiragana?",
+        "answer": "Власну"
+    },
+    {
+        "id": "11",
+        "question": "How is the word 'プレイガイド' read in hiragana?",
+        "answer": "Театральна каса"
+    }
+]
