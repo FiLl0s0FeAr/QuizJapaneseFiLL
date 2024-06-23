@@ -2,8 +2,15 @@
 
 Used the Google Spreadsheet (https://docs.google.com/spreadsheets/d/1Iqi4LtSW_T7mOxtwQsFTg5oPxb3Jieqf0wH0J_1eBzs/edit?gid=1005671112#gid=1005671112) to create the quiz files
 
-# Notes:
-Currently created only n5-n4 quiz. For more info, check the Info Panel 
+## Notes:
+Currently created only n5-n4 quiz. 
+The quiz files were generated via the python scripts.
+
+## TO DO:
+1. Fix the lessons number. It should depends on the existing quiz files
+2. Update the quiz files according to the Google Spreadsheet for n5-n4
+3. Update the Google Spreadsheet for n5
+4. Add Kanji learning (some lesson or handbook)
 
 # Getting Started with Create React App
 
