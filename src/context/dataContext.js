@@ -55,6 +55,7 @@ export const DataProvider = ({children}) => {
       setQuesion(questionsWithOptions[currentQuestion.id] || currentQuestion);
       setCorrectAnswer(currentQuestion.answer);
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [quizs, questionIndex, questionsWithOptions]);
 
   const generateRandomOptions = (correctAnswer) => {
