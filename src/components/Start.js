@@ -9,6 +9,7 @@ const Start = () => {
     const [question_type, setQuestionType] = useState('kanji-hiragana');
     const [infoPanelVisible, setInfoPanelVisible] = useState(false);
     const [lessonOptions, setLessonOptions] = useState([]);
+    const [lessonsAvailable, setLessonsAvailable] = useState(false);
 
     const { startQuiz, showStart, chooseQuestions } = useContext(DataContext);
 
@@ -26,6 +27,16 @@ const Start = () => {
                 } catch (error) {
                     // Файл не существует или произошла ошибка при загрузке
                 }
+            }
+            if (lessons.length === 0) {
+                lessons.push(
+                    <option key="no-lesson" value="">
+                        No lessons available
+                    </option>
+                );
+                setLessonsAvailable(false);
+            } else {
+                setLessonsAvailable(true);
             }
             setLessonOptions(lessons);
         };
@@ -47,7 +58,7 @@ const Start = () => {
                     <div className="col-lg-8">
                         <h1 className='fw-bold mb-4'>Japanese Quiz created by FiLL</h1>
 
-                        <button onClick={handleStartQuiz} className="custom-select">Start Quiz</button>
+                        <button onClick={handleStartQuiz} className="custom-select" disabled={!lessonsAvailable || !lesson} style={{ backgroundColor: (!lessonsAvailable || !lesson) ? 'gray' : '' }}>Start Quiz</button>
 
                         <select onChange={(e) => setLevel(e.target.value)} value={level} className="custom-select">
                             <option value="n5">N5</option>

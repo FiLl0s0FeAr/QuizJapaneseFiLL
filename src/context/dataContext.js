@@ -24,12 +24,15 @@ export const DataProvider = ({children}) => {
     const [readyTests, setReadyTests] = useState({});
 
     const fetchQuestions = async (level, lesson, questionType) => {
-        const filePath = `../../public/${level}/${questionType}/quiz${lesson}.json`;
-        const module = await import(`${filePath}`);
-        setQuizs(module.default);
-        setQuestionIndex(0);
-        setQuestionsWithOptions({});
-    };
+        let file = `${process.env.PUBLIC_URL}/${level}/${questionType}/quiz${lesson}.json`;
+        const response = await fetch(file);
+        if (response.ok) {
+          const data = await response.json();
+          setQuizs(data);
+          setQuestionIndex(0);
+          setQuestionsWithOptions({});
+        }
+      };
 
     useEffect(() => {
         if (currentLevel && currentLesson && currentQuestionType) {
