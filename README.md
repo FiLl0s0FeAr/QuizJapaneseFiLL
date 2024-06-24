@@ -12,6 +12,7 @@ The quiz files were generated via the python scripts.
 3. Update the Info Panel to Notes. Add possibility to edit it in real time and save changes 
 4. Update the Google Spreadsheet for n5
 5. Add Kanji learning (some dictionary or handbook)
+6. Add gif with the Poject Presentation
 
 # Getting Started with Create React App
 
