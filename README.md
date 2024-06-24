@@ -20,6 +20,7 @@ The quiz files were generated via the python scripts.
 6. Add Kanji learning (some dictionary or handbook)
 7. Add possibility to skip the quiz to the end (missing quiestion counts as failer)
 8. Add possibility to exit from the quiz to the main page
+9. Add history of the Quizs with the resuls
 
 # Getting Started with Create React App
 
