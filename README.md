@@ -12,11 +12,12 @@ The quiz files were generated via the python scripts.
 ## TO DO:
 1. Fix the lessons number. It should depends on the existing quiz files ✓
 - Cover case where there is no lesson avaible ✓
+- Add gif with the Poject Presentation ✓
 2. Update the quiz files according to the Google Spreadsheet for n5-n4 ✓
-3. Update the Info Panel to Notes. Add possibility to edit it in real time and save changes 
-4. Update the Google Spreadsheet for n5
-5. Add Kanji learning (some dictionary or handbook)
-6. Add gif with the Poject Presentation ✓
+3. Fix not working "Start Over" button
+4. Update the Info Panel to Notes. Add possibility to edit it in real time and save changes 
+5. Update the Google Spreadsheet for n5
+6. Add Kanji learning (some dictionary or handbook)
 
 # Getting Started with Create React App
 
