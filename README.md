@@ -7,7 +7,7 @@ Currently created only n5-n4 quiz.
 The quiz files were generated via the python scripts.
 
 ## TO DO:
-1. Fix the lessons number. It should depends on the existing quiz files
+1. Fix the lessons number. It should depends on the existing quiz files ✓
 2. Update the quiz files according to the Google Spreadsheet for n5-n4
 3. Update the Info Panel to Notes. Add possibility to edit it in real time and save changes 
 4. Update the Google Spreadsheet for n5
