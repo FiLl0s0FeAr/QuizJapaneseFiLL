@@ -1,34 +1,55 @@
 import React, { useContext, useState, useEffect } from 'react';
 import DataContext from '../context/dataContext';
 import InfoPanel from './InfoPanel';
-import './styles.css'; 
+import './styles.css';
 
 const Start = () => {
     const [level, setLevel] = useState('n5');
-    const [lesson, setLesson] = useState('1');
+    const [lesson, setLesson] = useState('');
     const [question_type, setQuestionType] = useState('kanji-hiragana');
     const [infoPanelVisible, setInfoPanelVisible] = useState(false);
+    const [lessonOptions, setLessonOptions] = useState([]);
+    const [lessonsAvailable, setLessonsAvailable] = useState(false);
 
     const { startQuiz, showStart, chooseQuestions } = useContext(DataContext);
+
+    useEffect(() => {
+        const fetchLessonOptions = async () => {
+            const lessons = [];
+            for (let i = 1; i <= 72; i++) {
+                try {
+                    await import(`../../public/${level}/${question_type}/quiz${i}.json`);
+                    lessons.push(
+                        <option key={i} value={i}>
+                            Lesson {i}
+                        </option>
+                    );
+                } catch (error) {
+                    // Файл не существует или произошла ошибка при загрузке
+                }
+            }
+            if (lessons.length === 0) {
+                lessons.push(
+                    <option key="no-lesson" value="">
+                        No lessons available
+                    </option>
+                );
+                setLessonsAvailable(false);
+            } else {
+                setLessonsAvailable(true);
+            }
+            setLessonOptions(lessons);
+        };
+
+        if (level && question_type) {
+            fetchLessonOptions();
+        }
+    }, [level, question_type]);
 
     const handleStartQuiz = () => {
         chooseQuestions(level, lesson, question_type);
         startQuiz();
     };
-
-    const generateLessonOptions = () => {
-        const options = [];
-        for (let i = 1; i <= 72; i++) {
-            options.push(
-                <option key={i} value={i}>Lesson {i}</option>
-            );
-        }
-        return options;
-    };
-
-    useEffect(() => {
-        chooseQuestions(level, lesson, question_type);
-    }, [level, lesson, question_type, chooseQuestions]);
 
     return (
         <section className='text-white text-center bg-dark' style={{ display: `${showStart ? 'block' : 'none'}` }}>
@@ -37,7 +58,7 @@ const Start = () => {
                     <div className="col-lg-8">
                         <h1 className='fw-bold mb-4'>Japanese Quiz created by FiLL</h1>
 
-                        <button onClick={handleStartQuiz} className="custom-select">Start Quiz</button>
+                        <button onClick={handleStartQuiz} className="custom-select" disabled={!lessonsAvailable || !lesson} style={{ backgroundColor: (!lessonsAvailable || !lesson) ? 'gray' : '' }}>Start Quiz</button>
 
                         <select onChange={(e) => setLevel(e.target.value)} value={level} className="custom-select">
                             <option value="n5">N5</option>
@@ -58,7 +79,7 @@ const Start = () => {
                         </select>
 
                         <select onChange={(e) => setLesson(e.target.value)} value={lesson} className="custom-select">
-                            {generateLessonOptions()}
+                            {lessonOptions}
                         </select>
 
                         <div>
