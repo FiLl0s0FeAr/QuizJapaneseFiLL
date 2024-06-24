@@ -3,7 +3,7 @@
 Used the Google Spreadsheet (https://docs.google.com/spreadsheets/d/1Iqi4LtSW_T7mOxtwQsFTg5oPxb3Jieqf0wH0J_1eBzs/edit?gid=1005671112#gid=1005671112) to create the quiz files
 
 ## Short presentation:
-![Short presentation of the project](public/short presentation.gif)
+![Short presentation of the project](public/short%20presentation.gif)
 
 ## Notes:
 Currently created only n5-n4 quiz.
