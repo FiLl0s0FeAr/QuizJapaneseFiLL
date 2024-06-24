@@ -1,34 +1,44 @@
 import React, { useContext, useState, useEffect } from 'react';
 import DataContext from '../context/dataContext';
 import InfoPanel from './InfoPanel';
-import './styles.css'; 
+import './styles.css';
 
 const Start = () => {
     const [level, setLevel] = useState('n5');
-    const [lesson, setLesson] = useState('1');
+    const [lesson, setLesson] = useState('');
     const [question_type, setQuestionType] = useState('kanji-hiragana');
     const [infoPanelVisible, setInfoPanelVisible] = useState(false);
+    const [lessonOptions, setLessonOptions] = useState([]);
 
     const { startQuiz, showStart, chooseQuestions } = useContext(DataContext);
+
+    useEffect(() => {
+        const fetchLessonOptions = async () => {
+            const lessons = [];
+            for (let i = 1; i <= 72; i++) {
+                try {
+                    await import(`../../public/${level}/${question_type}/quiz${i}.json`);
+                    lessons.push(
+                        <option key={i} value={i}>
+                            Lesson {i}
+                        </option>
+                    );
+                } catch (error) {
+                    // Файл не существует или произошла ошибка при загрузке
+                }
+            }
+            setLessonOptions(lessons);
+        };
+
+        if (level && question_type) {
+            fetchLessonOptions();
+        }
+    }, [level, question_type]);
 
     const handleStartQuiz = () => {
         chooseQuestions(level, lesson, question_type);
         startQuiz();
     };
-
-    const generateLessonOptions = () => {
-        const options = [];
-        for (let i = 1; i <= 72; i++) {
-            options.push(
-                <option key={i} value={i}>Lesson {i}</option>
-            );
-        }
-        return options;
-    };
-
-    useEffect(() => {
-        chooseQuestions(level, lesson, question_type);
-    }, [level, lesson, question_type, chooseQuestions]);
 
     return (
         <section className='text-white text-center bg-dark' style={{ display: `${showStart ? 'block' : 'none'}` }}>
@@ -58,7 +68,7 @@ const Start = () => {
                         </select>
 
                         <select onChange={(e) => setLesson(e.target.value)} value={lesson} className="custom-select">
-                            {generateLessonOptions()}
+                            {lessonOptions}
                         </select>
 
                         <div>
