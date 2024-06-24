@@ -14,10 +14,12 @@ The quiz files were generated via the python scripts.
 - Cover case where there is no lesson avaible ✓
 - Add gif with the Poject Presentation ✓
 2. Update the quiz files according to the Google Spreadsheet for n5-n4 ✓
-3. Fix not working "Start Over" button
+3. Fix not working "Start Over" button ✓
 4. Update the Info Panel to Notes. Add possibility to edit it in real time and save changes 
 5. Update the Google Spreadsheet for n5
 6. Add Kanji learning (some dictionary or handbook)
+7. Add possibility to skip the quiz to the end (missing quiestion counts as failer)
+8. Add possibility to exit from the quiz to the main page
 
 # Getting Started with Create React App
 
