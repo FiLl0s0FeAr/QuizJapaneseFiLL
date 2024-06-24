@@ -27,12 +27,12 @@ export const DataProvider = ({children}) => {
         let file = `${process.env.PUBLIC_URL}/${level}/${questionType}/quiz${lesson}.json`;
         const response = await fetch(file);
         if (response.ok) {
-          const data = await response.json();
-          setQuizs(data);
-          setQuestionIndex(0);
-          setQuestionsWithOptions({});
+            const data = await response.json();
+            setQuizs(data);
+            setQuestionIndex(0);
+            setQuestionsWithOptions({});
         }
-      };
+    };
 
     useEffect(() => {
         if (currentLevel && currentLesson && currentQuestionType) {
@@ -83,6 +83,7 @@ export const DataProvider = ({children}) => {
     const startQuiz = () => {
         setShowStart(false);
         setShowQuiz(true);
+        setShowResult(false);
         setLastLesson({ level: currentLevel, lesson: currentLesson, question_type: currentQuestionType });
         setReadyTests(prevState => ({
             ...prevState,
@@ -147,9 +148,8 @@ export const DataProvider = ({children}) => {
     };
 
     const startOver = () => {
-        setShowStart(true);
         setShowResult(false);
-        setShowQuiz(false);
+        setShowQuiz(true);
         setCorrectAnswer('');
         setSelectedAnswer('');
         setQuestionIndex(0);
