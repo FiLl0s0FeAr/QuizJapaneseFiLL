@@ -23,6 +23,7 @@ The quiz files were generated via the python scripts.
 9. Add history of the Quizs with the resuls
 10. Random the order of the quiestions ✓
 11. Update "Start Over" to randomize the questions for each try
+12. Fix the querry, when the lesson is changed, the Start button doesn't work, because it still see the 1st request (without any files) 
 
 # Getting Started with Create React App
 
