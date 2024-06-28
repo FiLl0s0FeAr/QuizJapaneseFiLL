@@ -12,11 +12,11 @@ The quiz files were generated via the python scripts.
 ## TO DO
 ### Done: 
 1. Fix the lessons number. It should depends on the existing quiz files ✓
-- Cover case where there is no lesson avaible ✓
-- Add gif with the Poject Presentation ✓
-2. Update the quiz files according to the Google Spreadsheet for n5-n4 ✓
-3. Fix not working "Start Over" button ✓
-4. Random the order of the quiestions ✓
+2. Cover case where there is no lesson avaible ✓
+3. Add gif with the Poject Presentation ✓
+4. Update the quiz files according to the Google Spreadsheet for n5-n4 ✓
+5. Fix not working "Start Over" button ✓
+6. Random the order of the quiestions ✓
 
 ### Important:
 1. Update "Start Over" to randomize the questions for each try
