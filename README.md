@@ -9,21 +9,26 @@ Used the Google Spreadsheet (https://docs.google.com/spreadsheets/d/1Iqi4LtSW_T7
 Currently created only n5-n4 quiz.
 The quiz files were generated via the python scripts.
 
-## TO DO:
+## TO DO
+### Done: 
 1. Fix the lessons number. It should depends on the existing quiz files ✓
 - Cover case where there is no lesson avaible ✓
 - Add gif with the Poject Presentation ✓
 2. Update the quiz files according to the Google Spreadsheet for n5-n4 ✓
 3. Fix not working "Start Over" button ✓
-4. Update the Info Panel to Notes. Add possibility to edit it in real time and save changes 
-5. Update the Google Spreadsheet for n5
-6. Add Kanji learning (some dictionary or handbook)
-7. Add possibility to skip the quiz to the end (missing quiestion counts as failer)
-8. Add possibility to exit from the quiz to the main page
-9. Add history of the Quizs with the resuls
-10. Random the order of the quiestions ✓
-11. Update "Start Over" to randomize the questions for each try
-12. Fix the querry, when the lesson is changed, the Start button doesn't work, because it still see the 1st request (without any files) 
+4. Random the order of the quiestions ✓
+
+### Important:
+1. Update "Start Over" to randomize the questions for each try
+2. Fix the querry, when the lesson is changed, the Start button doesn't work, because it still see the 1st request (without any files)
+3. Update the Google Spreadsheet for n5
+
+### Nice to have:
+1. Add Kanji learning (some dictionary or handbook)
+2. Add possibility to skip the quiz to the end (missing quiestion counts as failer)
+3. Add possibility to exit from the quiz to the main page
+4. Add history of the Quizs with the resuls
+5. Update the Info Panel to Notes. Add possibility to edit it in real time and save changes 
 
 # Getting Started with Create React App
 
