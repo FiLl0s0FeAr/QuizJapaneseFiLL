@@ -39,6 +39,7 @@ export const DataProvider = ({children}) => {
         if (currentLevel && currentLesson && currentQuestionType) {
             fetchQuestions(currentLevel, currentLesson, currentQuestionType);
         }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [currentLevel, currentLesson, currentQuestionType]);
 
     useEffect(() => {
