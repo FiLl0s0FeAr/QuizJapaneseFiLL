@@ -21,7 +21,8 @@ The quiz files were generated via the python scripts.
 7. Add possibility to skip the quiz to the end (missing quiestion counts as failer)
 8. Add possibility to exit from the quiz to the main page
 9. Add history of the Quizs with the resuls
-10. Random the order of the quiestions
+10. Random the order of the quiestions ✓
+11. Update "Start Over" to randomize the questions for each try
 
 # Getting Started with Create React App
 
