@@ -28,7 +28,8 @@ export const DataProvider = ({children}) => {
         const response = await fetch(file);
         if (response.ok) {
             const data = await response.json();
-            setQuizs(data);
+            const shuffledData = shuffleArray(data); // Shuffle the questions
+            setQuizs(shuffledData);
             setQuestionIndex(0);
             setQuestionsWithOptions({});
         }
@@ -58,6 +59,14 @@ export const DataProvider = ({children}) => {
     // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [quizs, questionIndex, questionsWithOptions]);
 
+    const shuffleArray = (array) => {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    };
+
     const generateRandomOptions = (correctAnswer) => {
         let options = currentOptions.filter(option => option !== correctAnswer);
         let randomOptions = [];
@@ -70,14 +79,6 @@ export const DataProvider = ({children}) => {
         }
         randomOptions.push(correctAnswer);
         return shuffleArray(randomOptions);
-    };
-
-    const shuffleArray = (array) => {
-        for (let i = array.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [array[i], array[j]] = [array[j], array[i]];
-        }
-        return array;
     };
 
     const startQuiz = () => {
